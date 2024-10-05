@@ -1,0 +1,16 @@
+/*
+Question 2: What skills are required fro the top-paying data scientist jobs?
+- Use the top 15 highest-paying Data Scientist jobs from the first_query
+
+ 
+*/
+
+SELECT
+    column_name,
+    data_type,
+    is_nullable,
+    character_maximum_length
+FROM
+    information_schema.columns
+WHERE
+    table_name = 'skills_dim';
