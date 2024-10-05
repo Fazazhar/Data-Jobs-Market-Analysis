@@ -16,6 +16,9 @@ This project was inspired by [Luke Barousse's](https://github.com/lukebarousse/S
 
 5. **Optimal Skills to Learn (SHOWCASE):** Identify high-demand skills associated with strong salary potential.
 
+## Database Schema
+![schema](schema/Data-Jobs-Schema.png)
+
 ## In-Demand Skills
 
 ```sql
