@@ -1,0 +1,62 @@
+[
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "1001",
+    "avg_salary": "160862"
+  },
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "766",
+    "avg_salary": "163071"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "605",
+    "avg_salary": "160652"
+  },
+  {
+    "skill_id": 7,
+    "skills": "sas",
+    "demand_count": "89",
+    "avg_salary": "133192"
+  },
+  {
+    "skill_id": 4,
+    "skills": "java",
+    "demand_count": "82",
+    "avg_salary": "152545"
+  },
+  {
+    "skill_id": 8,
+    "skills": "go",
+    "demand_count": "75",
+    "avg_salary": "171646"
+  },
+  {
+    "skill_id": 3,
+    "skills": "scala",
+    "demand_count": "69",
+    "avg_salary": "191503"
+  },
+  {
+    "skill_id": 9,
+    "skills": "javascript",
+    "demand_count": "29",
+    "avg_salary": "128260"
+  },
+  {
+    "skill_id": 2,
+    "skills": "nosql",
+    "demand_count": "24",
+    "avg_salary": "165460"
+  },
+  {
+    "skill_id": 6,
+    "skills": "shell",
+    "demand_count": "11",
+    "avg_salary": "149258"
+  }
+]
