@@ -1,0 +1,30 @@
+[
+  {
+    "skills": "python",
+    "demand_count": "114016"
+  },
+  {
+    "skills": "sql",
+    "demand_count": "79174"
+  },
+  {
+    "skills": "r",
+    "demand_count": "59754"
+  },
+  {
+    "skills": "sas",
+    "demand_count": "29642"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "29513"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "26311"
+  },
+  {
+    "skills": "spark",
+    "demand_count": "24353"
+  }
+]
