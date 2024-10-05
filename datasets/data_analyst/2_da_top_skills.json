@@ -1,0 +1,359 @@
+[
+  {
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "company_name": "Anthropic",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "company_name": "Anthropic",
+    "skills": "python"
+  },
+  {
+    "job_id": 894135,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "285000.0",
+    "company_name": "OpenAI",
+    "skills": "github"
+  },
+  {
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "240000.0",
+    "company_name": "Anthropic",
+    "skills": "sql"
+  },
+  {
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "240000.0",
+    "company_name": "Anthropic",
+    "skills": "python"
+  },
+  {
+    "job_id": 339646,
+    "job_title": "Data Sector Analyst - Hedge Fund in Midtown",
+    "salary_year_avg": "240000.0",
+    "company_name": "Coda Search│Staffing",
+    "skills": "sql"
+  },
+  {
+    "job_id": 339646,
+    "job_title": "Data Sector Analyst - Hedge Fund in Midtown",
+    "salary_year_avg": "240000.0",
+    "company_name": "Coda Search│Staffing",
+    "skills": "python"
+  },
+  {
+    "job_id": 339646,
+    "job_title": "Data Sector Analyst - Hedge Fund in Midtown",
+    "salary_year_avg": "240000.0",
+    "company_name": "Coda Search│Staffing",
+    "skills": "pandas"
+  },
+  {
+    "job_id": 841064,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "sql"
+  },
+  {
+    "job_id": 841064,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "python"
+  },
+  {
+    "job_id": 841064,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "r"
+  },
+  {
+    "job_id": 841064,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "express"
+  },
+  {
+    "job_id": 1713491,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1713491,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "python"
+  },
+  {
+    "job_id": 1713491,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "r"
+  },
+  {
+    "job_id": 1713491,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "239777.5",
+    "company_name": "TikTok",
+    "skills": "express"
+  },
+  {
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "company_name": "Asana",
+    "skills": "sql"
+  },
+  {
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "company_name": "Asana",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "company_name": "Asana",
+    "skills": "asana"
+  },
+  {
+    "job_id": 204500,
+    "job_title": "Reference Data Analyst",
+    "salary_year_avg": "225000.0",
+    "company_name": "Selby Jennings",
+    "skills": "sql"
+  },
+  {
+    "job_id": 204500,
+    "job_title": "Reference Data Analyst",
+    "salary_year_avg": "225000.0",
+    "company_name": "Selby Jennings",
+    "skills": "python"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "sql"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "python"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "scala"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "spark"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "company_name": "Airbnb",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "sql"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "sas"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "excel"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "looker"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "sas"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "powerpoint"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "company_name": "GoodRx",
+    "skills": "spss"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "neo4j"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "elasticsearch"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "sql server"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "aws"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "oracle"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "spark"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "salary_year_avg": "185000.0",
+    "company_name": "Pronix Inc",
+    "skills": "kafka"
+  },
+  {
+    "job_id": 396924,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "181177.5",
+    "company_name": "TikTok",
+    "skills": "sql"
+  },
+  {
+    "job_id": 396924,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "181177.5",
+    "company_name": "TikTok",
+    "skills": "python"
+  },
+  {
+    "job_id": 396924,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "181177.5",
+    "company_name": "TikTok",
+    "skills": "r"
+  },
+  {
+    "job_id": 396924,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "salary_year_avg": "181177.5",
+    "company_name": "TikTok",
+    "skills": "express"
+  },
+  {
+    "job_id": 386504,
+    "job_title": "Data Associate, Investor Relations",
+    "salary_year_avg": "180000.0",
+    "company_name": "Brewer Morris",
+    "skills": "python"
+  },
+  {
+    "job_id": 386504,
+    "job_title": "Data Associate, Investor Relations",
+    "salary_year_avg": "180000.0",
+    "company_name": "Brewer Morris",
+    "skills": "excel"
+  },
+  {
+    "job_id": 386504,
+    "job_title": "Data Associate, Investor Relations",
+    "salary_year_avg": "180000.0",
+    "company_name": "Brewer Morris",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 386504,
+    "job_title": "Data Associate, Investor Relations",
+    "salary_year_avg": "180000.0",
+    "company_name": "Brewer Morris",
+    "skills": "power bi"
+  }
+]

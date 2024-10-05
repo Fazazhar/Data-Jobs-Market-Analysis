@@ -1,0 +1,373 @@
+[
+  {
+    "job_id": 551617,
+    "job_title": "Geographic Information Systems Analyst - GIS Analyst",
+    "salary_year_avg": "585000.0",
+    "company_name": "ReServe",
+    "skills": "excel"
+  },
+  {
+    "job_id": 1100370,
+    "job_title": "Data Science Director, Adoption & Enterprise",
+    "salary_year_avg": "375000.0",
+    "company_name": "Asana",
+    "skills": "python"
+  },
+  {
+    "job_id": 1100370,
+    "job_title": "Data Science Director, Adoption & Enterprise",
+    "salary_year_avg": "375000.0",
+    "company_name": "Asana",
+    "skills": "scala"
+  },
+  {
+    "job_id": 1100370,
+    "job_title": "Data Science Director, Adoption & Enterprise",
+    "salary_year_avg": "375000.0",
+    "company_name": "Asana",
+    "skills": "r"
+  },
+  {
+    "job_id": 1100370,
+    "job_title": "Data Science Director, Adoption & Enterprise",
+    "salary_year_avg": "375000.0",
+    "company_name": "Asana",
+    "skills": "asana"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "sql"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "python"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "r"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "slack"
+  },
+  {
+    "job_id": 505276,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "375000.0",
+    "company_name": "Rippling",
+    "skills": "zoom"
+  },
+  {
+    "job_id": 601528,
+    "job_title": "Engineering Data Scientist, Ad Ranking",
+    "salary_year_avg": "350000.0",
+    "company_name": "Snap Inc",
+    "skills": "sql"
+  },
+  {
+    "job_id": 601528,
+    "job_title": "Engineering Data Scientist, Ad Ranking",
+    "salary_year_avg": "350000.0",
+    "company_name": "Snap Inc",
+    "skills": "python"
+  },
+  {
+    "job_id": 601528,
+    "job_title": "Engineering Data Scientist, Ad Ranking",
+    "salary_year_avg": "350000.0",
+    "company_name": "Snap Inc",
+    "skills": "r"
+  },
+  {
+    "job_id": 601528,
+    "job_title": "Engineering Data Scientist, Ad Ranking",
+    "salary_year_avg": "350000.0",
+    "company_name": "Snap Inc",
+    "skills": "express"
+  },
+  {
+    "job_id": 791669,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "sql"
+  },
+  {
+    "job_id": 791669,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "python"
+  },
+  {
+    "job_id": 791669,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "r"
+  },
+  {
+    "job_id": 791669,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "spark"
+  },
+  {
+    "job_id": 791669,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 194581,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "sql"
+  },
+  {
+    "job_id": 194581,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "python"
+  },
+  {
+    "job_id": 194581,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "r"
+  },
+  {
+    "job_id": 194581,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "spark"
+  },
+  {
+    "job_id": 194581,
+    "job_title": "Head of Data Science and Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Nextdoor",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 470044,
+    "job_title": "Principal Data Scientist",
+    "salary_year_avg": "350000.0",
+    "company_name": "UBS",
+    "skills": "sql"
+  },
+  {
+    "job_id": 470044,
+    "job_title": "Principal Data Scientist",
+    "salary_year_avg": "350000.0",
+    "company_name": "UBS",
+    "skills": "python"
+  },
+  {
+    "job_id": 470044,
+    "job_title": "Principal Data Scientist",
+    "salary_year_avg": "350000.0",
+    "company_name": "UBS",
+    "skills": "azure"
+  },
+  {
+    "job_id": 470044,
+    "job_title": "Principal Data Scientist",
+    "salary_year_avg": "350000.0",
+    "company_name": "UBS",
+    "skills": "spark"
+  },
+  {
+    "job_id": 470044,
+    "job_title": "Principal Data Scientist",
+    "salary_year_avg": "350000.0",
+    "company_name": "UBS",
+    "skills": "excel"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "python"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "r"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "azure"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "aws"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "spark"
+  },
+  {
+    "job_id": 193002,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "337500.0",
+    "company_name": "Glocomms",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 51177,
+    "job_title": "Director - Business Data Science",
+    "salary_year_avg": "314000.0",
+    "company_name": "Figma",
+    "skills": "go"
+  },
+  {
+    "job_id": 634129,
+    "job_title": "Data Science Manager",
+    "salary_year_avg": "308500.0",
+    "company_name": "Grammarly",
+    "skills": "sql"
+  },
+  {
+    "job_id": 634129,
+    "job_title": "Data Science Manager",
+    "salary_year_avg": "308500.0",
+    "company_name": "Grammarly",
+    "skills": "python"
+  },
+  {
+    "job_id": 634129,
+    "job_title": "Data Science Manager",
+    "salary_year_avg": "308500.0",
+    "company_name": "Grammarly",
+    "skills": "scala"
+  },
+  {
+    "job_id": 634129,
+    "job_title": "Data Science Manager",
+    "salary_year_avg": "308500.0",
+    "company_name": "Grammarly",
+    "skills": "r"
+  },
+  {
+    "job_id": 21268,
+    "job_title": "Founding Data Scientist",
+    "salary_year_avg": "307500.0",
+    "company_name": "OpenAI",
+    "skills": "sql"
+  },
+  {
+    "job_id": 21268,
+    "job_title": "Founding Data Scientist",
+    "salary_year_avg": "307500.0",
+    "company_name": "OpenAI",
+    "skills": "python"
+  },
+  {
+    "job_id": 21268,
+    "job_title": "Founding Data Scientist",
+    "salary_year_avg": "307500.0",
+    "company_name": "OpenAI",
+    "skills": "github"
+  },
+  {
+    "job_id": 1674733,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "301000.0",
+    "company_name": "Chime",
+    "skills": "python"
+  },
+  {
+    "job_id": 1674733,
+    "job_title": "Director of Data Science",
+    "salary_year_avg": "301000.0",
+    "company_name": "Chime",
+    "skills": "aws"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "sql"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "python"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "go"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "c"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "kafka"
+  },
+  {
+    "job_id": 200188,
+    "job_title": "Head of Marketplace Data Science",
+    "salary_year_avg": "300000.0",
+    "company_name": "Block",
+    "skills": "tableau"
+  }
+]
