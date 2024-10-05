@@ -3,6 +3,7 @@ Question 1: What are the top-paying data scientist jobs?
 - Identify the top 15 highest-paying Data Scientist roles
 - Filters job posting with specified salaries (removing nulls)
 - Identify which job locations have the highest paying Data Scientist roles.
+- Purpose: To generalized our search for subsequent queries based on the top-paying roles
 */
 
 SELECT

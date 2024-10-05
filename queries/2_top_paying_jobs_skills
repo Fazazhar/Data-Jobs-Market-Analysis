@@ -1,16 +1,33 @@
 /*
 Question 2: What skills are required fro the top-paying data scientist jobs?
 - Use the top 15 highest-paying Data Scientist jobs from the first_query
-
- 
+- Add the specific skills required for the roles
+- Purpose: To provide an overview of the certain skills required from high-paying jobs
 */
 
-SELECT
-    column_name,
-    data_type,
-    is_nullable,
-    character_maximum_length
-FROM
-    information_schema.columns
-WHERE
-    table_name = 'skills_dim';
+WITH top_paying_jobs AS (
+    SELECT
+        job_id,
+        job_title,
+        salary_year_avg,
+        name AS company_name
+    FROM
+        job_postings_fact
+    LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+    WHERE
+        job_title_short = 'Data Scientist' AND
+        job_location IN 
+            ('San Diego, CA', 
+            'San Francisco, CA', 
+            'Seattle, WA', 
+            'Washington, DC', 
+            'New York, NY') AND
+        salary_year_avg IS NOT NULL
+    ORDER BY
+        salary_year_avg DESC
+    LIMIT 15
+)
+
+SELECT *
+FROM top_paying_jobs
+INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_dim.job_id 
