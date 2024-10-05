@@ -1,0 +1,137 @@
+[
+  {
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "350000.0",
+    "job_posted_date": "2023-06-22 07:00:59",
+    "company_name": "Anthropic"
+  },
+  {
+    "job_id": 894135,
+    "job_title": "Research Scientist",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "285000.0",
+    "job_posted_date": "2023-04-19 18:04:21",
+    "company_name": "OpenAI"
+  },
+  {
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "240000.0",
+    "job_posted_date": "2023-06-21 13:00:59",
+    "company_name": "Anthropic"
+  },
+  {
+    "job_id": 339646,
+    "job_title": "Data Sector Analyst - Hedge Fund in Midtown",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "240000.0",
+    "job_posted_date": "2023-08-17 13:00:09",
+    "company_name": "Coda Search│Staffing"
+  },
+  {
+    "job_id": 1713491,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "239777.5",
+    "job_posted_date": "2023-07-09 14:00:05",
+    "company_name": "TikTok"
+  },
+  {
+    "job_id": 841064,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "239777.5",
+    "job_posted_date": "2023-05-27 13:59:57",
+    "company_name": "TikTok"
+  },
+  {
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "235000.0",
+    "job_posted_date": "2023-07-05 11:01:16",
+    "company_name": "Asana"
+  },
+  {
+    "job_id": 204500,
+    "job_title": "Reference Data Analyst",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "225000.0",
+    "job_posted_date": "2023-05-12 19:59:54",
+    "company_name": "Selby Jennings"
+  },
+  {
+    "job_id": 1772185,
+    "job_title": "Data Analyst（SF）",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "200000.0",
+    "job_posted_date": "2023-03-01 03:05:25",
+    "company_name": "ThinkingData"
+  },
+  {
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "200000.0",
+    "job_posted_date": "2023-09-13 08:02:27",
+    "company_name": "Airbnb"
+  },
+  {
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "186000.0",
+    "job_posted_date": "2023-08-29 12:01:14",
+    "company_name": "GoodRx"
+  },
+  {
+    "job_id": 1563879,
+    "job_title": "Data Analysis Manager",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "185000.0",
+    "job_posted_date": "2023-04-18 20:59:56",
+    "company_name": "Pronix Inc"
+  },
+  {
+    "job_id": 396924,
+    "job_title": "Investigations and Insights Lead Data Analyst - USDS",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "181177.5",
+    "job_posted_date": "2023-04-28 06:00:11",
+    "company_name": "TikTok"
+  },
+  {
+    "job_id": 831133,
+    "job_title": "Business Analyst/Data Analyst Compliance",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "180000.0",
+    "job_posted_date": "2023-01-03 20:27:16",
+    "company_name": "IRIS Software, Inc."
+  },
+  {
+    "job_id": 386504,
+    "job_title": "Data Associate, Investor Relations",
+    "job_location": "New York, NY",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "180000.0",
+    "job_posted_date": "2023-07-17 17:00:29",
+    "company_name": "Brewer Morris"
+  }
+]
